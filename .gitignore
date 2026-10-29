@@ -67,3 +67,5 @@ scanner_backend_backup.js
 # Local checkouts of third-party tools; not part of this app
 /scratch/astra/
 /scratch/mast3r/
+docker-compose.passcuda.yml
+passcuda-wg-forward.sh
